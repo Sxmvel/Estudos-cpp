@@ -7,6 +7,8 @@ using namespace std;
 
 int main(){
 
+
+    // const double pi = 3.1415 - > 
     double pi = 3.1415;
     double raio;
     
